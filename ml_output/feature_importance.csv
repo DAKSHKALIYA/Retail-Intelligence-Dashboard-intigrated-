@@ -1,0 +1,12 @@
+feature,churn_importance,clv_importance
+frequency,0.2166,0.139
+monetary,0.1727,0.3713
+n_products,0.1137,0.0836
+avg_order_value,0.1022,0.0776
+recency,0.0794,0.0559
+avg_gap_days,0.0758,0.063
+items_per_order,0.0755,0.0547
+recency_gap_ratio,0.0582,0.0421
+tenure_days,0.055,0.0506
+revenue_last_90d,0.048,0.0578
+orders_last_90d,0.0029,0.0044

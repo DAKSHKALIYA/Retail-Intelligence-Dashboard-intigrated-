@@ -1,0 +1,20 @@
+{
+  "best_k": 4,
+  "churn": {
+    "roc_auc": 0.7008530890804597,
+    "baseline_recency_only_auc": 0.6629804238505748,
+    "precision": 0.5641025641025641,
+    "recall": 0.6068965517241379,
+    "f1": 0.584717607973422,
+    "churn_rate_in_snapshot": 0.42997032640949556,
+    "train_customers": 2696,
+    "test_customers": 674
+  },
+  "clv": {
+    "r2_log_scale": 0.19259852852163795,
+    "mae_revenue": 612.7635268479595,
+    "mean_actual_revenue": 768.3104451038575
+  },
+  "high_risk_customers": 1231,
+  "total_customers": 4338
+}

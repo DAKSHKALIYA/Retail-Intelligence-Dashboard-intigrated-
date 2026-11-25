@@ -1,0 +1,5 @@
+Cluster,ClusterName,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Monetary,Revenue_Share_%
+0,High Value Active,713,12.17,13.75,8088.02,5766757.07,64.89
+1,Dormant Low Value,1622,181.51,1.32,341.0,553099.77,6.22
+2,Active Mid Value,837,17.7,2.19,557.32,466479.03,5.25
+3,Fading Mid Value,1166,71.64,4.08,1801.78,2100873.02,23.64
